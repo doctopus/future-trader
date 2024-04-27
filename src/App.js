@@ -17,7 +17,7 @@ function App() {
         </a>
       </header>
       <subHeader>
-        The app to search your family tree!
+        The app to search your family tree
       </subHeader>
     </div>
   );
