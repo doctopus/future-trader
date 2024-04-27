@@ -16,6 +16,9 @@ function App() {
           Ancestree Application
         </a>
       </header>
+      <subHeader>
+        The app to search your family tree!
+      </subHeader>
     </div>
   );
 }
