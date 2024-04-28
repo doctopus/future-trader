@@ -9,7 +9,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://ancestree.org"
+          href="https://www.ancestree.org"
           target="_blank"
           rel="noopener noreferrer"
         >
